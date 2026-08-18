@@ -13,7 +13,7 @@ https://apkmirror.com com.miui.calculator by Xiaomi Inc.
 ## Changelog
 
 v0.4
-- Does not using dummy class miui.util.HapticFeedbackUtil but catch exceptions instead
+- Does not use dummy class miui.util.HapticFeedbackUtil but catch exceptions instead
 
 v0.3
 - Fix background status bar at launch
