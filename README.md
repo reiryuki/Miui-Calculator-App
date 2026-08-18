@@ -32,7 +32,7 @@ https://t.me/ryukimodsscreenshots/114
 - Android 10 (SDK 29) and up
 
 ## Installation Guide & Download Link
-- Normal install the Miui Calculator APK: https://github.com/reiryuki/Miui-Calculator-App
+- Normal install the Miui Calculator APK: https://bicolink.com/h6yKmpVzq3
 - Go to app info of Miui Calculator and allow the network access for online features to work
 
 ## Download Tutorial
